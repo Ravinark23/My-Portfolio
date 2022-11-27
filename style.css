@@ -443,7 +443,9 @@ p{
        padding:0;
    }
 
-  
+   .portfolio .box-container .box img{
+    height:20%;
+    width:95%;
 }
 
 }
@@ -454,7 +456,10 @@ p{
         font-size: 50%;
     }
 
-   
+    .portfolio .box-container .box img{
+        height:20%;
+        width:95%;
+    }
  
  }
 
@@ -476,11 +481,13 @@ p{
         width:100%;
     }
 
-   
+    .portfolio .box-container .box img{
+        height:20%;
+        width:95%;
+    }
 
     .portfolio .box-container .box{
-        width:60%;
-        height:60%;
+        width:100%;
     }
 
     .contact .row form{
