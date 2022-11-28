@@ -37,10 +37,7 @@ html::-webkit-scrollbar-thumb{
 }
 
 body{
-    background-image: url('Images/back.webp');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
+    background-color:black;
     overflow-x: hidden;
     padding-left: 35rem;
 }
